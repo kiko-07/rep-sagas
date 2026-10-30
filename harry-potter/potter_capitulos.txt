@@ -1,8 +1,8 @@
-1	Harry Potter y la piedra filosofal
-2	Harry Potter y la cámara secreta
-3	Harry Potter y el prisionero de Azkaban
-4	
-5	
-6	
-7	
-8	
+Harry Potter y la piedra filosofal
+Harry Potter y la cámara secreta
+Harry Potter y el prisionero de Azkaban
+Harry Potter y el cáliz de fuego
+Harry Potter y la Orden del Fénix
+Harry Potter y el misterio del príncipe
+Harry Potter y las Reliquias de la Muerte: Parte 1
+Harry Potter y las Reliquias de la Muerte: Parte 2
